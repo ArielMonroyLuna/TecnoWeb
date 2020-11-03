@@ -1,0 +1,41 @@
+.bo{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.content{
+    width: 1300px;
+    background-color: turquoise;
+    border-radius: 8px;
+
+}
+.content-2{
+    width: 625px;
+    background-color: turquoise;
+    border-radius: 8px;
+
+}
+.tdsp{
+    width: 50px;
+}
+hr{
+    margin-left: 30px;
+    margin-right: 30px;
+    border: solid .5px teal;
+}
+.intro{
+    font-size: 25px;
+    justify-content: center;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.sp{
+    margin-top: 50px;
+}
+.content-3{
+    width: 397px;
+    background-color: turquoise;
+    border-radius: 8px;
+
+}
+.b{
+    font-weight: bolder;
+}

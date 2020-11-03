@@ -1,0 +1,15 @@
+.nav{
+    background-color: blue;
+    margin-top: -10px;
+    margin-left: -16px;
+    margin-right: -16px;
+    height: 150px;
+}
+.title{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    font-size: 40px;
+}
+app-cont{
+    margin-right: 50%;
+}
